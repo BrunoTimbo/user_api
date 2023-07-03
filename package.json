@@ -1,0 +1,12 @@
+{
+  "name": "user_api",
+  "version": "1.0.0",
+  "description": "-y: seta todas as respostas como _yes_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
